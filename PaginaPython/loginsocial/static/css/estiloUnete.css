@@ -1,0 +1,62 @@
+
+  
+    /***********************************NEW PERRISSSSSSSSSSS****************************************/
+    input {
+      float: left;
+      width: 250px;
+      margin-bottom: 50px;
+      margin:5px;
+     }
+     input.id {
+      float: left;
+      width: 25px;
+      margin-bottom: 50px;
+      margin:5px;
+     }
+     label {
+      font-size: 15px; 
+      clear: both;
+      float: left;
+      width: 180px;
+     }
+     select {
+      float: left;
+      width: 250px;
+      margin-bottom: 50px;
+      margin:10px;
+     } 
+    .nombrecompleto {
+      clear: both;
+      float: left;
+      width: 300px;
+     }
+     #datoscontacto{
+  font-size: 20px;
+  text-align: left;
+  color: white;
+     }
+  
+     #datosidentificacion{
+      font-size: 20px;
+      text-align: left;
+      color: white;
+         }
+  
+     button{
+      text-align: center;
+      border-radius: 50px;
+      width: 250px;
+      height: 25px;
+    }
+  
+     #mi-formulario{
+      margin: 0 auto;
+        text-align: center;
+        border-radius: 10px;
+        width: 500px;
+        
+     }
+     
+    #Rellenar{
+      text-align: center;
+    }
